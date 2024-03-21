@@ -1,0 +1,1 @@
+console.log("Hello Week 1 Minsky Cohort!")
